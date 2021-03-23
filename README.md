@@ -4,6 +4,8 @@ I designed an interface that the user can dynamically search the database in add
 
 The user will reach this screen after logging in as admin (with database connection). On this screen, they can add new books to their bookshelf, delete or update existing ones.
 
+I used mysql connector to connect to mysql servers. I performed the database management via phpmyadmin.
+
 
 ![bookshelf](https://user-images.githubusercontent.com/78660341/111033837-2a66c780-8424-11eb-80ee-4912db71fbbc.png)
 
